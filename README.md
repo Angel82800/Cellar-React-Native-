@@ -1,4 +1,4 @@
-UC React Native App (Typescript)
+React Native App (Typescript)
 ==================
 
 This project is based on the Mobile Starter Kit for [React Native](https://facebook.github.io/react-native/) + [NativeBase](http://nativebase.io/) + [Redux](http://redux.js.org) + [CodePush](https://github.com/Microsoft/react-native-code-push) + [TypeScript](https://www.typescriptlang.org/) Apps (iOS & Android).
@@ -8,9 +8,7 @@ This project is based on the Mobile Starter Kit for [React Native](https://faceb
 Clone or fork this repository:
 
 ```sh
-git clone https://github.com/xmlking/react-native-mobile-starter-kit.git
-cd react-native-mobile-starter-kit
-```
+git clone 
 
 Install dependencies (one time only):
 
