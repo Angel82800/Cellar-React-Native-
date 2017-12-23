@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "target": "es2015",
+    "moduleResolution": "node",
+    "outDir": "../build",
+    "noImplicitAny": false,
+    "jsx": "react",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "preserveConstEnums": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "traceResolution": false,
+    "allowJs": true,
+    "typeRoots": [
+      "../../node_modules/@types"
+    ],
+    "paths": {
+      "*": ["*", "*.ios", "*.android"]
+    },
+    "baseUrl": "."
+  },
+  "compileOnSave": false
+}
